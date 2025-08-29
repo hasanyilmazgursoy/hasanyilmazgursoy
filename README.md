@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system" target="_blank">
-      <img src="https://img.shields.io/badge/VakıfBank Hackathon-2024%20Finalist-1f6feb?style=for-the-badge" alt="Vakıfbank Hackathon 2024 Finalist" />
+      <img src="https://img.shields.io/badge/VakıfBank%20Hackathon-2024%20Finalist-1f6feb?style=for-the-badge" alt="Vakıfbank Hackathon 2024 Finalist" />
     </a>
     &nbsp;
     <a href="SENİN_CV_LİNKİN" target="_blank">
@@ -27,8 +27,6 @@
 ### 👤 Hakkımda
 
 Yapay zeka ve veri bilimi alanlarında uzmanlaşan, yenilikçi çözümler geliştirmeye odaklanmış 4. sınıf bilgisayar mühendisliği öğrencisiyim. Özellikle bilgisayarlı görü ve metin işleme (NLP) alanlarında, veri odaklı yaklaşımlarla **gerçek dünya sorunlarına** yenilikçi çözümler geliştiriyorum. Temiz kod ve çevik metodolojilere olan inancımla, takım içinde sinerji yaratarak değer üretmeyi hedefliyorum.
-
----
 
 ### 🛠️ Teknolojiler ve Araçlar
 
@@ -81,5 +79,5 @@ Yapay zeka ve veri bilimi alanlarında uzmanlaşan, yenilikçi çözümler geli�
 <p align="center">
   <a href="https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/hasanylmazgrsoy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:hasanyilmazgursoy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hasanyilmazgursoy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
