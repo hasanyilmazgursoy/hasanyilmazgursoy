@@ -1,113 +1,85 @@
-<!-- Bu dosya, GitHub profil README'niz için iskelet şablondur. Yer tutucuları dolduracağız. -->
-
 <div align="center">
+  <img src="assets/banner.png" alt="Profile Banner" width="680" loading="lazy" />
 
-  <!-- Başlık görseli (isteğe bağlı) -->
-  <!-- Aşağıdaki URL'yi kendi banner/GIF görselinizle değiştirin -->
-  <!-- Banner: Hazır olduğunda bu görseli kendi banner linkinizle değiştirin -->
-  <img src="assets/banner.png" alt="profile banner" width="720" loading="lazy" />
+  <h1>
+    Hasan Yılmaz GÜRSOY
+  </h1>
+  <h3>AI Engineer Intern & Computer Engineering Student</h3>
 
-  <h1>Merhaba, ben Hasan Yılmaz Gürsoy 👋</h1>
-  <p><strong>AI Engineer Intern | Computer Engineering Student</strong></p>
-  <p><em>Bilgisayar mühendisliği 4. sınıf öğrencisi, yapay zeka ve veri bilimi alanında kendini geliştiren bir yazılım meraklısı.</em></p>
+  <p>
+    Yapay zeka ve veri bilimi alanındaki yeteneklerimi kullanarak karmaşık problemleri <strong>ölçülebilir sonuçlar üreten</strong> ve <strong>verimlilik artışı sağlayan</strong> çözümlere dönüştürme konusunda tutkuluyum.
+  </p>
 
   <p>
     <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system" target="_blank">
-      <img src="https://img.shields.io/badge/HackToTheFuture-2024%20Finalist-1f6feb?style=flat" alt="Vakıfbank Hackathon 2024 Finalist" />
+      <img src="https://img.shields.io/badge/VakıfBank Hackathon-2024%20Finalist-1f6feb?style=for-the-badge" alt="Vakıfbank Hackathon 2024 Finalist" />
     </a>
     &nbsp;
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/CV-PDF-0ea5e9?style=flat" alt="CV (PDF)" />
+    <a href="SENİN_CV_LİNKİN" target="_blank">
+      <img src="https://img.shields.io/badge/CV'mi%20İncele-PDF-0ea5e9?style=for-the-badge&logo=icloud&logoColor=white" alt="CV (PDF)" />
     </a>
   </p>
-  <p><strong>Open to AI Intern roles | Malatya / Remote</strong></p>
-
-  <!-- Hızlı rozetler (shields.io) -->
-  <!-- Örnek: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 
 </div>
 
 ---
 
-### 🙋‍♂️ Hakkımda
-Karmaşık problemleri veriden anlam çıkaran yapay zeka çözümleriyle sadeleştirmeyi seviyorum. Özellikle
-bilgisayarlı görü ve metin işleme alanlarında ürünleşebilir çözümler geliştirmeye odaklanıyorum. Ekip
-çalışmasına ve temiz koda önem veriyor, deneyimlerimi gerçek dünyadaki problemlere uygulayarak
-değer üretmeyi hedefliyorum.
+### 👤 Hakkımda
 
-### 🔭 Şu an üzerinde çalışıyorum
-- Fatura Tanıma ve İşleme Uygulaması
-- TaşıTaşı
+Yapay zeka ve veri bilimi alanlarında uzmanlaşan, yenilikçi çözümler geliştirmeye odaklanmış 4. sınıf bilgisayar mühendisliği öğrencisiyim. Özellikle bilgisayarlı görü ve metin işleme (NLP) alanlarında, veri odaklı yaklaşımlarla **gerçek dünya sorunlarına** yenilikçi çözümler geliştiriyorum. Temiz kod ve çevik metodolojilere olan inancımla, takım içinde sinerji yaratarak değer üretmeyi hedefliyorum.
 
-### 🌱 Öğreniyorum / Derinleşiyorum
-- Derin öğrenme modelleri (NLP & Görüntü işleme)
-- Büyük veri analizi ve dağıtık sistemler
+---
 
-### 💬 İlgi alanlarım
-- Yapay Zeka • Görüntü İşleme • Veri Bilimi • Django
+### 🛠️ Teknolojiler ve Araçlar
 
-### 💻 Kullandığım Teknolojiler
-<p align="left">
-  <!-- İkon örnekleri: Devicon -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-  </a>
-</p>
-
-### 📈 GitHub İstatistikleri
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanyilmazgursoy&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📌 Öne Çıkan Projelerim
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=tokyonight)](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=tokyonight)](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=TasiTasi&theme=tokyonight)](https://github.com/hasanyilmazgursoy/TasiTasi)
-
-### 📫 Bana Ulaşın
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/hasanylmazgrsoy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="mailto:hasanyilmazgursoy@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="28" />
-  </a>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
 </p>
 
 ---
 
+### ✨ Öne Çıkan Projelerim
 
+<p align="center">
+  <a href="https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=tokyonight" alt="Fatura Tanıma Uygulaması" />
+  </a>
+  <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=tokyonight" alt="Vakıfbank Hackathon RAG System" />
+  </a>
+  <a href="https://github.com/hasanyilmazgursoy/TasiTasi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=TasiTasi&theme=tokyonight" alt="TasiTasi" />
+  </a>
+</p>
+
+* 📄 **Fatura Tanıma Uygulaması:** Görüntü işleme ve OCR teknikleri kullanarak faturalardan otomatik veri çıkaran bir derin öğrenme projesi. Bu projede **Python, OpenCV ve TensorFlow** kullanarak fatura işleme verimliliğini **%90'ın üzerine çıkaran** bir model geliştirdim.
+* 🏦 **Vakıfbank Hackathon (RAG Sistemi):** Finansal dokümanlar üzerinde anlamsal arama yapabilen ve sorulara yanıt üreten bir RAG sistemi geliştirdik. **LangChain ve Büyük Dil Modelleri (LLM)** kullanarak **HackToTheFuture 2024'te finalist** olmayı başardık.
+* 🚚 **TasiTasi:** Lojistik süreçlerini optimize eden bir web platformu. **Django ve PostgreSQL** kullanarak taşıma taleplerini ve araç yönetimini kolaylaştıran, veritabanı odaklı bir sistem tasarladım.
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanyilmazgursoy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 İletişim
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/hasanylmazgrsoy" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:hasanyilmazgursoy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
