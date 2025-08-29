@@ -5,11 +5,22 @@
   <!-- Başlık görseli (isteğe bağlı) -->
   <!-- Aşağıdaki URL'yi kendi banner/GIF görselinizle değiştirin -->
   <!-- Banner: Hazır olduğunda bu görseli kendi banner linkinizle değiştirin -->
-  <img src="assets/banner.png" alt="profile banner" width="900" loading="lazy" />
+  <img src="assets/banner.png" alt="profile banner" width="720" loading="lazy" />
 
   <h1>Merhaba, ben Hasan Yılmaz Gürsoy 👋</h1>
   <p><strong>AI Engineer Intern | Computer Engineering Student</strong></p>
   <p><em>Bilgisayar mühendisliği 4. sınıf öğrencisi, yapay zeka ve veri bilimi alanında kendini geliştiren bir yazılım meraklısı.</em></p>
+
+  <p>
+    <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system" target="_blank">
+      <img src="https://img.shields.io/badge/HackToTheFuture-2024%20Finalist-1f6feb?style=flat" alt="HackToTheFuture 2024 Finalist" />
+    </a>
+    &nbsp;
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/CV-PDF-0ea5e9?style=flat" alt="CV (PDF)" />
+    </a>
+  </p>
+  <p><strong>Open to AI Intern roles | Malatya / Remote</strong></p>
 
   <!-- Hızlı rozetler (shields.io) -->
   <!-- Örnek: <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
@@ -71,22 +82,18 @@ değer üretmeyi hedefliyorum.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
   </a>
-  <!-- İhtiyaca göre teknoloji ikonları ekleyelim -->
 </p>
 
 ### 📈 GitHub İstatistikleri
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanyilmazgursoy&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanyilmazgursoy&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📌 Öne Çıkan Projelerim
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=radical)](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
-<em>Fatura görsellerinden metinleri çıkarıp yapılandırılmış veriye dönüştüren, Python/Django/OpenCV tabanlı sistem.</em>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=radical)](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system)
-<em>LLM + vektör veritabanı ile RAG tabanlı, bankacılık dokümanlarında soru-cevap yapabilen çözüm.</em>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=TasiTasi&theme=radical)](https://github.com/hasanyilmazgursoy/TasiTasi)
-<em>Taşıma süreçlerini kolaylaştırmayı hedefleyen, pratik ve kullanıcı odaklı uygulama.</em>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=tokyonight)](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=tokyonight)](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=TasiTasi&theme=tokyonight)](https://github.com/hasanyilmazgursoy/TasiTasi)
 
 ### 📫 Bana Ulaşın
 <p align="left">
@@ -102,22 +109,5 @@ değer üretmeyi hedefliyorum.
 </p>
 
 ---
-
-### ⏱️ Güncelleme
-Son güncelleme: <!--LAST_UPDATED:start-->2025-08-29<!--LAST_UPDATED:end-->
-
-<details>
-  <summary>⚙️ Dinamik içerikler (isteğe bağlı)</summary>
-
-  <!-- WakaTime, son blog yazıları, Spotify vb. için GitHub Actions ekleyebiliriz. -->
-  <!-- Tercihlerinizi paylaşın, uygun workflow dosyalarını ekleyelim. -->
-
-</details>
-
-<!-- Notlar
-1) Bu repo, kullanıcı adınızla aynı isimde olmalıdır: hasanyilmazgursoy
-2) Public olmalı ve README görünür olmalı.
-3) Pinned repos: Profilinizde en iyi 6 projenizi sabitleyin.
--->
 
 
