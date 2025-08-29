@@ -13,7 +13,7 @@
 
   <p>
     <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system" target="_blank">
-      <img src="https://img.shields.io/badge/HackToTheFuture-2024%20Finalist-1f6feb?style=flat" alt="HackToTheFuture 2024 Finalist" />
+      <img src="https://img.shields.io/badge/HackToTheFuture-2024%20Finalist-1f6feb?style=flat" alt="Vakıfbank Hackathon 2024 Finalist" />
     </a>
     &nbsp;
     <a href="#" target="_blank">
