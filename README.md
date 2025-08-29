@@ -5,7 +5,7 @@
   <!-- Başlık görseli (isteğe bağlı) -->
   <!-- Aşağıdaki URL'yi kendi banner/GIF görselinizle değiştirin -->
   <!-- Banner: Hazır olduğunda bu görseli kendi banner linkinizle değiştirin -->
-  <img src="assets/banner.png" alt="profile banner" />
+  <img src="assets/banner.png" alt="profile banner" width="900" loading="lazy" />
 
   <h1>Merhaba, ben Hasan Yılmaz Gürsoy 👋</h1>
   <p><strong>AI Engineer Intern | Computer Engineering Student</strong></p>
@@ -17,6 +17,12 @@
 </div>
 
 ---
+
+### 🙋‍♂️ Hakkımda
+Karmaşık problemleri veriden anlam çıkaran yapay zeka çözümleriyle sadeleştirmeyi seviyorum. Özellikle
+bilgisayarlı görü ve metin işleme alanlarında ürünleşebilir çözümler geliştirmeye odaklanıyorum. Ekip
+çalışmasına ve temiz koda önem veriyor, deneyimlerimi gerçek dünyadaki problemlere uygulayarak
+değer üretmeyi hedefliyorum.
 
 ### 🔭 Şu an üzerinde çalışıyorum
 - Fatura Tanıma ve İşleme Uygulaması
@@ -74,10 +80,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Pinned repos -->
+### 📌 Öne Çıkan Projelerim
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=radical)](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
+<em>Fatura görsellerinden metinleri çıkarıp yapılandırılmış veriye dönüştüren, Python/Django/OpenCV tabanlı sistem.</em>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=radical)](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system)
+<em>LLM + vektör veritabanı ile RAG tabanlı, bankacılık dokümanlarında soru-cevap yapabilen çözüm.</em>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=TasiTasi&theme=radical)](https://github.com/hasanyilmazgursoy/TasiTasi)
+<em>Taşıma süreçlerini kolaylaştırmayı hedefleyen, pratik ve kullanıcı odaklı uygulama.</em>
 
 ### 📫 Bana Ulaşın
 <p align="left">
