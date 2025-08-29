@@ -5,7 +5,7 @@
   <!-- Başlık görseli (isteğe bağlı) -->
   <!-- Aşağıdaki URL'yi kendi banner/GIF görselinizle değiştirin -->
   <!-- Banner: Hazır olduğunda bu görseli kendi banner linkinizle değiştirin -->
-  <img src="https://via.placeholder.com/1200x280?text=Hasan+Y%C4%B1lmaz+G%C3%BCrsoy" alt="profile banner" />
+  <img src="assets/banner.png" alt="profile banner" />
 
   <h1>Merhaba, ben Hasan Yılmaz Gürsoy 👋</h1>
   <p><strong>AI Engineer Intern | Computer Engineering Student</strong></p>
