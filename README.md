@@ -8,6 +8,7 @@
   <img src="https://via.placeholder.com/1200x280?text=Hasan+Y%C4%B1lmaz+G%C3%BCrsoy" alt="profile banner" />
 
   <h1>Merhaba, ben Hasan Yılmaz Gürsoy 👋</h1>
+  <p><strong>AI Engineer Intern | Computer Engineering Student</strong></p>
   <p><em>Bilgisayar mühendisliği 4. sınıf öğrencisi, yapay zeka ve veri bilimi alanında kendini geliştiren bir yazılım meraklısı.</em></p>
 
   <!-- Hızlı rozetler (shields.io) -->
@@ -18,15 +19,15 @@
 ---
 
 ### 🔭 Şu an üzerinde çalışıyorum
-- - Fatura Tanıma ve İşleme Uygulaması
-- - TaşıTaşı
+- Fatura Tanıma ve İşleme Uygulaması
+- TaşıTaşı
 
 ### 🌱 Öğreniyorum / Derinleşiyorum
-- - Derin öğrenme modelleri (NLP & Görüntü işleme)
-- - Büyük veri analizi ve dağıtık sistemler
+- Derin öğrenme modelleri (NLP & Görüntü işleme)
+- Büyük veri analizi ve dağıtık sistemler
 
 ### 💬 İlgi alanlarım
-- - Yapay Zeka • Görüntü İşleme • Veri Bilimi • Django
+- Yapay Zeka • Görüntü İşleme • Veri Bilimi • Django
 
 ### 💻 Kullandığım Teknolojiler
 <p align="left">
@@ -92,6 +93,9 @@
 </p>
 
 ---
+
+### ⏱️ Güncelleme
+Son güncelleme: <!--LAST_UPDATED:start-->2025-08-29<!--LAST_UPDATED:end-->
 
 <details>
   <summary>⚙️ Dinamik içerikler (isteğe bağlı)</summary>
