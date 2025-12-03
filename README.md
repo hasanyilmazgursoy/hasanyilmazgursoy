@@ -76,15 +76,6 @@ const hasanYilmazGursoy = {
 
 <br/>
 
-<!-- GitHub Trophies -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanyilmazgursoy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
 <!-- Experience Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Professional Experience
 
@@ -148,7 +139,6 @@ const hasanYilmazGursoy = {
   <br/><br/>
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
 </p>
 </details>
 
@@ -159,9 +149,6 @@ const hasanYilmazGursoy = {
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git&theme=dark" alt="DevOps"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-  <img src="https://img.shields.io/badge/ChromaDB-00A36C?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
 </details>
 
@@ -172,8 +159,6 @@ const hasanYilmazGursoy = {
   <img src="https://skillicons.dev/icons?i=java,cpp,linux,vscode,pycharm&theme=dark" alt="Tools"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 </details>
 
