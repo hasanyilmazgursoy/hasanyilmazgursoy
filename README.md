@@ -166,30 +166,3 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve **Ya
 <p align="center">
   <i>📍 Malatya, Türkiye</i>
 </p>
-<div align="center">
-
-  <h1>👋 Merhaba, Ben Hasan Yılmaz GÜRSOY</h1>
-  <h3>🤖 AI Engineer @ AYSSOFT | 🎓 Fırat Üniversitesi Bilgisayar Mühendisliği</h3>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Yapay+Zeka+%26+Makine+%C3%96%C4%9Frenmesi;Bilgisayarl%C4%B1+G%C3%B6r%C3%BC+%7C+YOLOv8;LLM+%26+RAG+Sistemleri+%7C+LangChain;OCR+%26+Dok%C3%BCman+%C4%B0%C5%9Fleme" alt="Typing SVG" />
-  </p>
-
-  <p>
-    <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system" target="_blank">
-      <img src="https://img.shields.io/badge/🏆%20VakıfBank%20Hackathon-2024%20Finalist-1f6feb?style=for-the-badge" alt="Vakıfbank Hackathon 2024 Finalist" />
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/🎓%20TÜBİTAK-2209--B%20Projesi-success?style=for-the-badge" alt="TÜBİTAK 2209-B" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=hasanyilmazgursoy&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="Profile views" />
-    <a href="https://github.com/hasanyilmazgursoy?tab=followers">
-      <img src="https://img.shields.io/github/followers/hasanyilmazgursoy?label=Takipçiler&style=social" alt="GitHub followers" />
-    </a>
-  </p>
-
-</div>
-
