@@ -123,12 +123,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasanyilmazgursoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyilmazgursoy&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyilmazgursoy&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
