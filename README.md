@@ -49,154 +49,73 @@
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
-`javascript
-const hasanYilmazGursoy = {
-    role: "AI Engineer",
-    company: "AYSSOFT",
-    education: {
-        university: "Fırat University",
-        department: "Computer Engineering",
-        year: "4th Year"
-    },
-    expertise: [
-        "Computer Vision",
-        "Deep Learning", 
-        "LLM & RAG Systems",
-        "OCR & Document Processing"
-    ],
-    currentFocus: "Building intelligent AI systems with LangChain & YOLOv8",
-    achievements: [
-        " VakıfBank HackToTheFuture 2024 Finalist (Top 14 out of 255+)",
-        " TÜBİTAK 2209-B Research Grant Recipient",
-        " 3+ Professional AI/ML Internships"
-    ],
-    funFact: "I turn coffee into AI models   "
-};
-`
+ **Fırat University** Computer Engineering 4th year student, specializing in **AI, Machine Learning & Deep Learning**.
+
+-  Currently working as **Computer Engineer** at **AYSSOFT**
+-  Building projects on **Computer Vision**, **LLM/RAG Systems** and **OCR**
+-  **VakıfBank HackToTheFuture 2024** Finalist (Top 14 out of 255+ participants)
+-  **TÜBİTAK 2209-B** Research Grant Recipient - UAV-based analysis system
+-  Turning theory into practice through hackathons, competitions and internships
 
 <br/>
 
 <!-- Experience Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Professional Experience
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/2025-Present-blue?style=flat-square"/>
-    </td>
-    <td>
-      <strong> Computer Engineer</strong> @ <strong>AYSSOFT</strong>, Malatya<br/>
-      <sub>Full-time position developing AI solutions</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/08/2025-09/2025-green?style=flat-square"/>
-    </td>
-    <td>
-      <strong> AI Engineer Intern</strong> @ <strong>BİEN TEKNOLOJİ</strong>, Ankara<br/>
-      <sub>Developed hybrid OCR system for Turkish e-invoice data extraction</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/09/2024-02/2025-orange?style=flat-square"/>
-    </td>
-    <td>
-      <strong> AI Engineer Intern</strong> @ <strong>Talay Grup</strong>, Trabzon<br/>
-      <sub>YOLOv8 industrial pipe defect detection & Django pool surveillance system</sub>
-    </td>
-  </tr>
-</table>
+| Period | Position | Company | Description |
+|--------|----------|---------|-------------|
+| 2025 - Present |  **Computer Engineer** | AYSSOFT, Malatya | Full-time AI solutions development |
+| 08/2025 - 09/2025 |  **AI Engineer Intern** | BİEN TEKNOLOJİ, Ankara | Hybrid OCR system for Turkish e-invoice |
+| 09/2024 - 02/2025 |  **AI Engineer Intern** | Talay Grup, Trabzon | YOLOv8 defect detection & Django surveillance |
 
 <br/>
 
 <!-- Tech Stack Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
 
-<details open>
-<summary><b> AI & Machine Learning</b></summary>
-<br/>
-<p align="center">
+** AI & Machine Learning**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Core"/>
-  <br/><br/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
 </p>
-</details>
 
-<details open>
-<summary><b> Web & Backend</b></summary>
-<br/>
-<p align="center">
+** Web & Backend**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Backend"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
-</details>
 
-<details open>
-<summary><b> Databases & DevOps</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git&theme=dark" alt="DevOps"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+** Databases & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,linux&theme=dark" alt="Tools"/>
 </p>
-</details>
-
-<details>
-<summary><b> Languages & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,linux,vscode,pycharm&theme=dark" alt="Tools"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-</details>
 
 <br/>
 
 <!-- Featured Projects Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
-<div align="center">
-
-###  Competition & Research Projects
-
-<a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=vakifbank-hackathon-rag-system&theme=tokyonight&hide_border=true&border_radius=15" alt="VakıfBank RAG"/>
-</a>
-<a href="https://github.com/hasanyilmazgursoy/Tubitak2209B_Cop_Tespiti">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=Tubitak2209B_Cop_Tespiti&theme=tokyonight&hide_border=true&border_radius=15" alt="TÜBİTAK"/>
-</a>
+###  Competition & Research
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**VakıfBank Hackathon RAG**](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system) |  Finalist - Smart Q&A platform for banking documents | LangGraph, OpenAI, Chroma |
+| [**TÜBİTAK 2209-B Waste Detection**](https://github.com/hasanyilmazgursoy/Tubitak2209B_Cop_Tespiti) |  Campus environmental pollution detection | YOLOv8, Computer Vision |
 
 ###  Professional Projects
-
-<a href="https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=fatura_tanima_uygulamasi&theme=tokyonight&hide_border=true&border_radius=15" alt="Invoice Recognition"/>
-</a>
-<a href="https://github.com/hasanyilmazgursoy/Body_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=Body_AI&theme=tokyonight&hide_border=true&border_radius=15" alt="Body AI"/>
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Invoice Recognition**](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi) | OCR-based invoice text extraction | OpenCV, Tesseract, Regex |
+| [**Body AI**](https://github.com/hasanyilmazgursoy/Body_AI) | AI-powered fitness program generator | Django, Machine Learning |
 
 ###  Tools & Utilities
-
-<a href="https://github.com/hasanyilmazgursoy/Hava-Yollar-Yonetim-Sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=Hava-Yollar-Yonetim-Sistemi&theme=tokyonight&hide_border=true&border_radius=15" alt="Airline System"/>
-</a>
-<a href="https://github.com/hasanyilmazgursoy/yolo-veri-onisleme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanyilmazgursoy&repo=yolo-veri-onisleme&theme=tokyonight&hide_border=true&border_radius=15" alt="YOLO Preprocessing"/>
-</a>
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Airline Management System**](https://github.com/hasanyilmazgursoy/Hava-Yollar-Yonetim-Sistemi) | Flight reservations & payment management | Database Design |
+| [**YOLO Data Preprocessing**](https://github.com/hasanyilmazgursoy/yolo-veri-onisleme) | Image processing & label conversion tools | Python, YOLO |
 
 <br/>
 
@@ -227,52 +146,26 @@ const hasanYilmazGursoy = {
 <!-- Certifications Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-101%20%20401-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-101%20%20401-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"></td>
-    <td><strong>Python 101-401</strong> - Turkcell Geleceği Yazanlar</td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td><strong>Java 101-401</strong> - Turkcell Geleceği Yazanlar</td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td><strong>Data Science & AI Introduction</strong> - Turkcell Geleceği Yazanlar</td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td><strong>AI Programming Training</strong> - Code 23 Fırat</td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td><strong>UAV-1 Sports/Amateur License</strong></td>
-  </tr>
-</table>
+-  **Python 101-401** - Turkcell Geleceği Yazanlar
+-  **Java 101-401** - Turkcell Geleceği Yazanlar
+-  **Data Science & AI Introduction** - Turkcell Geleceği Yazanlar
+-  **AI Programming Training** - Code 23 Fırat
+-  **UAV-1 Sports/Amateur License**
 
 <br/>
 
 <!-- Contact Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
 
-<div align="center">
+<p align="center">
+   Malatya, Turkey   hasanyilmazgursoy@gmail.com   Open to AI/ML collaborations
+</p>
 
-`
- Malatya, Turkey
- hasanyilmazgursoy@gmail.com
- Open to AI/ML collaboration opportunities
-`
-
-<a href="https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <br/>
 
@@ -281,7 +174,6 @@ const hasanYilmazGursoy = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
-<!-- Profile last updated -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-December%202024-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=flat-square"/>
 </p>
