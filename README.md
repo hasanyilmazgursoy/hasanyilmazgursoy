@@ -24,9 +24,6 @@
   <a href="https://github.com/hasanyilmazgursoy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://wakatime.com/@hasanyilmazgursoy">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
-  </a>
 </p>
 
 <!-- Profile Views & Followers -->
@@ -59,9 +56,6 @@
 -  **VakıfBank HackToTheFuture 2024** Finalist (Top 14 out of 255+ participants)
 -  **TÜBİTAK 2209-B** Research Grant Recipient - UAV-based analysis system
 -  Turning theory into practice through hackathons, competitions and internships
-- 🔭 Currently working on **Barkodex** — AI-powered multi-marketplace integration API
-- 🌱 Currently learning **MLOps**, **Rust** and advanced **Cassandra**
-- 💬 Ask me about **Python**, **FastAPI**, **LangChain**, **YOLOv8**, **Computer Vision**
 
 <br/>
 
@@ -128,26 +122,13 @@
 <!-- GitHub Stats Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Statistics
 
-<!-- Streak + Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyilmazgursoy&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanyilmazgursoy&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&border_radius=15" alt="Most Used Languages" height="180"/>
-</p>
-
-<!-- WakaTime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gursoy&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&border_radius=15&custom_title=WakaTime%20-%20Coding%20Stats" alt="WakaTime Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyilmazgursoy&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyilmazgursoy&theme=tokyo-night&hide_border=true&border_radius=15" alt="Activity Graph"/>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanyilmazgursoy&theme=tokyonight&no-frame=true&column=-1&margin-w=5&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 <!-- Snake Animation -->
@@ -189,5 +170,5 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-May%202026-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=flat-square"/>
 </p>
