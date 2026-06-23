@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasan%20Y%C4%B1lmaz%20G%C3%9CRSOY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems&descSize=18&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasan%20Y%C4%B1lmaz%20G%C3%9CRSOY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Production%20Backend&descSize=18&descAlignY=52"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3BACF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%A4%96+AI+Engineer+%40+AYSSOFT;%F0%9F%8E%93+Computer+Engineering+%40+F%C4%B1rat+University;%F0%9F%94%AD+Specialized+in+Computer+Vision+%26+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3BACF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%A4%96+AI+Engineer+%40+AYSSOFT;%F0%9F%8E%93+Computer+Engineering+%40+F%C4%B1rat+University;%F0%9F%94%AD+LLM+Systems+%C2%B7+FastAPI+%C2%B7+Cassandra+%C2%B7+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,49 +49,67 @@
 <!-- About Me Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
- **Fırat University** Computer Engineering 4th year student, specializing in **AI, Machine Learning & Deep Learning**.
+**Fırat University** Computer Engineering final-year student and **Backend & AI Engineer @ AYSSOFT**.
 
--  Currently working as **Computer Engineer** at **AYSSOFT**
--  Building projects on **Computer Vision**, **LLM/RAG Systems** and **OCR**
--  **VakıfBank HackToTheFuture 2024** Finalist (Top 14 out of 255+ participants)
--  **TÜBİTAK 2209-B** Research Grant Recipient - UAV-based analysis system
--  Turning theory into practice through hackathons, competitions and internships
+- 🚀 I take **LLM-based AI applications to production** — RAG, multi-provider LLM orchestration, semantic search and multimodal OCR/vision
+- ⚙️ Backend & infrastructure: **FastAPI · Cassandra · Docker · GitHub Actions CI/CD · Sentry / Prometheus**
+- 🏆 **VakıfBank HackToTheFuture 2024** Finalist (Top 14 out of 255+ participants)
+- 🎓 **TÜBİTAK 2209-B** Research Grant Recipient — UAV-based analysis system
+- 💡 Comfortable across the stack: from prompt pipelines and embeddings to NoSQL data modeling and production deployment
 
 <br/>
 
 <!-- Experience Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Professional Experience
 
-| Period | Position | Company | Description |
+| Period | Position | Company | Focus |
 |--------|----------|---------|-------------|
-| 2025 - Present |  **Computer Engineer** | AYSSOFT, Malatya | Full-time AI solutions development |
-| 08/2025 - 09/2025 |  **AI Engineer Intern** | BİEN TEKNOLOJİ, Ankara | Hybrid OCR system for Turkish e-invoice |
-| 09/2024 - 02/2025 |  **AI Engineer Intern** | Talay Grup, Trabzon | YOLOv8 defect detection & Django surveillance |
+| 2025 - Present | **Computer Engineer (Backend & AI)** | AYSSOFT, Malatya | Production AI & backend systems — FastAPI, Cassandra, Docker, CI/CD |
+| 08/2025 - 09/2025 | **AI Engineer Intern** | BİEN TEKNOLOJİ, Ankara | Hybrid OCR system for Turkish documents |
+| 09/2024 - 02/2025 | **AI Engineer Intern** | Talay Grup, Trabzon | YOLOv8 defect detection & Django surveillance |
 
 <br/>
 
 <!-- Tech Stack Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
 
-** AI & Machine Learning**
+**🤖 AI & LLM**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Core"/>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Sentence--Transformers-EE4C2C?style=for-the-badge" alt="Sentence-Transformers"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-** Web & Backend**
+**⚙️ Backend & API**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask&theme=dark" alt="Backend"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="asyncio"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API"/>
 </p>
 
-** Databases & Tools**
+**🗄️ Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,linux&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Databases"/>
+  <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
+</p>
+
+**🚀 DevOps & Production**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark" alt="DevOps"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
 
 <br/>
@@ -153,7 +171,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
 
 <p align="center">
-   Malatya, Turkey   hasanyilmazgursoy@gmail.com   Open to AI/ML collaborations
+   Malatya, Turkey   hasanyilmazgursoy@gmail.com   Open to AI / Backend roles & collaborations
 </p>
 
 <p align="center">
@@ -170,5 +188,5 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-June%202026-blue?style=flat-square"/>
 </p>
