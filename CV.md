@@ -3,7 +3,7 @@
 **Bilgisayar Mühendisi | Yapay Zeka Mühendisi**
 
 📍 Malatya, Türkiye &nbsp;|&nbsp; ✉️ hasanyilmazgursoy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/hasanyilmazgursoy)
+🔗 [LinkedIn](https://www.linkedin.com/in/hasanyilmazgursoy/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/hasanyilmazgursoy)
 
 ---
 
