@@ -162,7 +162,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
 
 <p align="center">
-   Malatya, Turkey   hasanyilmazgursoy@gmail.com   Open to AI / Backend roles & collaborations
+  Malatya, Turkey &nbsp;·&nbsp; hasanyilmazgursoy@gmail.com &nbsp;·&nbsp; Open to AI / Backend roles & collaborations
 </p>
 
 <p align="center">
