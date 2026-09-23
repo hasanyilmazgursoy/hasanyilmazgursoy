@@ -140,15 +140,6 @@
 <!-- GitHub Stats Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" /> GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanyilmazgursoy&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanyilmazgursoy&theme=tokyo-night&hide_border=true&border_radius=15" alt="Activity Graph"/>
-</p>
-
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/hasanyilmazgursoy/hasanyilmazgursoy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
