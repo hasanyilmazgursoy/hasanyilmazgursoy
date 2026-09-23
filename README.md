@@ -39,7 +39,7 @@
   <a href="https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system">
     <img src="https://img.shields.io/badge/%F0%9F%8F%86_Vak%C4%B1fBank_Hackathon-2024_Finalist-gold?style=for-the-badge" alt="VakıfBank Hackathon"/>
   </a>
-  <a href="#">
+  <a href="https://github.com/hasanyilmazgursoy/Tubitak2209B_Cop_Tespiti">
     <img src="https://img.shields.io/badge/%F0%9F%8E%93_T%C3%9CB%C4%B0TAK-2209--B_Project-success?style=for-the-badge" alt="TÜBİTAK"/>
   </a>
 </p>
