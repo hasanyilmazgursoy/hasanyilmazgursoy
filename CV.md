@@ -2,7 +2,7 @@
 
 **Bilgisayar Mühendisi | Yapay Zeka Mühendisi**
 
-📍 Malatya, Türkiye &nbsp;|&nbsp; 📞 +90 (537) 7339964 &nbsp;|&nbsp; ✉️ hasanyilmazgursoy@gmail.com  
+📍 Malatya, Türkiye &nbsp;|&nbsp; ✉️ hasanyilmazgursoy@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hasan-y%C4%B1lmaz-g%C3%BCrsoy-a900b9229/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/hasanyilmazgursoy)
 
 ---
