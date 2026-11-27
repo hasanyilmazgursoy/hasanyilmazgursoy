@@ -48,8 +48,9 @@ Fırat Üniversitesi Bilgisayar Mühendisliği mezunu (2026), aynı üniversited
 ### Backend & Yapay Zeka Mühendisi — AYSSOFT
 **Malatya, Türkiye | 10/2025 – Devam ediyor**
 
-- Yapay zeka tabanlı çözümler geliştiriyor; OCR sistemleri, veri işleme ve API entegrasyonları üzerine çalışmalar yürütüyor.
-- Türkçe belgelerin (fatura, fiş, sicil gazetesi) yapılandırılmış veriye dönüştürülmesi için üretim ortamına uygun sistemler geliştirdi.
+- LLM tabanlı uygulamaları üretim ortamına taşıyor: çoklu sağlayıcılı LLM orkestrasyonu, RAG, anlamsal arama ve çok modlu OCR/görü.
+- FastAPI ve Cassandra ile async REST API'ler geliştiriyor; Docker, Docker Compose ve Nginx ile dağıtım, CI/CD ve pytest ile test.
+- Rate limiting, önbellekleme ve Sentry/Prometheus ile izleme gibi üretim gereksinimlerini uyguluyor.
 
 ### Yapay Zeka Mühendisi Stajyeri — BİEN TEKNOLOJİ
 **Ankara, Türkiye | 08/2025 – 09/2025**
@@ -89,8 +90,6 @@ Fırat Üniversitesi Bilgisayar Mühendisliği mezunu (2026), aynı üniversited
 - **Teknolojiler:** Django, Django ORM, PostgreSQL, Python
 
 ### Boru İçindeki Kusurların YOLOv8m ile Tespiti
-[GitHub](https://github.com/hasanyilmazgursoy/boru-icindeki-kusurlarin-yolov8m-ile-tespiti)
-
 - YOLOv8m modeli ile deformasyon, kırık ve birikinti gibi endüstriyel boru kusurlarını tespit eden sistem geliştirildi.
 - **Teknolojiler:** Python, YOLOv8, PyTorch, OpenCV
 
@@ -100,60 +99,17 @@ Fırat Üniversitesi Bilgisayar Mühendisliği mezunu (2026), aynı üniversited
 - Logistic Regression, KNN, Decision Tree, Random Forest ve SVM algoritmalarının karşılaştırmalı analizi yapıldı.
 - **Teknolojiler:** Python, Scikit-learn, Pandas
 
+### Fatura Tanıma — OCR Tabanlı Bilgi Çıkarma
+[GitHub](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
+
+- Fatura görüntülerinden metin çıkaran ve önemli alanları JSON olarak sunan sistem geliştirildi.
+- **Teknolojiler:** Python, Tesseract OCR, OpenCV, Regex
+
 ### Body AI — YOLOv8x ile Fitness Program Oluşturucu
 [GitHub](https://github.com/hasanyilmazgursoy/Body_AI)
 
 - YOLOv8x kullanılarak vücut analizi yapan ve kişiye özel fitness programı oluşturan yapay zeka destekli web uygulaması geliştirildi.
 - **Teknolojiler:** Python, YOLOv8, Django
-
----
-
-## Profesyonel Projeler (AYSSOFT Dönemi)
-
-### sicil-gazetesi-ocr
-[GitHub](https://github.com/hasanyilmazgursoy/sicil-gazetesi-ocr)
-
-- Gemini 2.0 Flash API kullanılarak Ticaret Sicil Gazetesi PDF'lerinden şirket bilgisi çıkarma sistemi geliştirildi.
-- JSON schema ile yapılandırılmış veri çıktısı ve otomatik rate limiting mekanizması uygulandı.
-- **Teknolojiler:** Python, Gemini API, PyMuPDF
-
-### customer-data-hub — Merkezi Müşteri Veri Platformu
-[GitHub](https://github.com/hasanyilmazgursoy/customer-data-hub)
-
-- Cassandra veritabanı üzerine FastAPI REST API, Docker Compose orkestrasyonu ve Nginx reverse proxy ile kurumsal düzeyde müşteri veri platformu geliştirildi.
-- Rate limiting ve önbellekleme (caching) mekanizmaları entegre edildi.
-- **Teknolojiler:** Python, FastAPI, Cassandra, Docker, Docker Compose, Nginx
-
-### fis_uygulamasi — OLM-OCR Tabanlı Fiş Tanıma Sistemi
-[GitHub](https://github.com/hasanyilmazgursoy/fis_uygulamasi)
-
-- OLM-OCR (DeepInfra) tabanlı fiş tanıma sistemi; **5 bölge stratejisi**, TOPKDV Boundary Method ve **4-Pattern Regex sistemi** ile geliştirildi.
-- Streamlit web arayüzü ile kullanıcı dostu erişim sağlandı.
-- **Teknolojiler:** Python, DeepInfra API, Streamlit, OpenCV
-
-### dots_ocr_fis_uygulamasi — Alternatif Fiş Tanıma Sistemi
-[GitHub](https://github.com/hasanyilmazgursoy/dots_ocr_fis_uygulamasi)
-
-- dots.ocr (Replicate) tabanlı alternatif fiş tanıma sistemi; Pytest unit testleri ve yapılandırılmış logging ile üretim kalitesinde geliştirildi.
-- **Teknolojiler:** Python, Replicate API, Streamlit
-
-### dualOcrFisOkuma — Çift OCR Motor Fusion Sistemi
-[GitHub](https://github.com/hasanyilmazgursoy/dualOcrFisOkuma)
-
-- OLM-OCR ve dots.ocr motorlarını paralel çalıştıran ve akıllı birleştirme motoru ile sonuçları birleştiren fusion sistemi geliştirildi.
-- **Teknolojiler:** Python, Streamlit
-
-### fatura_tanima_uygulamasi — OCR Tabanlı Fatura Tanıma
-[GitHub](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi)
-
-- Türkçe faturaları metin çıkarma ve yapılandırma için Tesseract, pdfplumber ve regex pattern matching kullanan sistem geliştirildi.
-- **Teknolojiler:** Python, Tesseract OCR, OpenCV, Streamlit
-
-### openrouter-balance-alert — Bakiye Takip Servisi
-[GitHub](https://github.com/hasanyilmazgursoy/openrouter-balance-alert)
-
-- OpenRouter API bakiye takibi ve Telegram bildirimi için zamanlayıcı (schedule) tabanlı ve GitHub Actions uyumlu servis geliştirildi.
-- **Teknolojiler:** Python, Telegram Bot API, GitHub Actions
 
 ---
 
