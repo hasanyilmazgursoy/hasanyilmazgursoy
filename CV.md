@@ -1,6 +1,6 @@
 # Hasan Yılmaz Gürsoy
 
-**Bilgisayar Mühendisi | Yapay Zeka Mühendisi**
+**Backend & Yapay Zeka Mühendisi**
 
 📍 Malatya, Türkiye &nbsp;|&nbsp; ✉️ hasanyilmazgursoy@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hasanyilmazgursoy/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/hasanyilmazgursoy)
@@ -9,7 +9,7 @@
 
 ## Özet
 
-Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Yapay Zeka, Makine Öğrenmesi, Derin Öğrenme ve Bilgisayarlı Görü alanlarında uzmanlaşıyor. Hackatonlar, proje yarışmaları ve stajlar aracılığıyla teorik bilgiyi aktif olarak pratik deneyime dönüştürüyor. AYSSOFT'ta Bilgisayar Mühendisi olarak çalışmaya devam ediyor.
+Fırat Üniversitesi Bilgisayar Mühendisliği mezunu (2026), aynı üniversitede Kuantum Bilişimi yüksek lisans öğrencisi. Yapay Zeka, Makine Öğrenmesi, Derin Öğrenme ve Bilgisayarlı Görü alanlarında uzmanlaşıyor. Hackatonlar, proje yarışmaları ve stajlar aracılığıyla teorik bilgiyi aktif olarak pratik deneyime dönüştürüyor. AYSSOFT'ta Backend & Yapay Zeka Mühendisi olarak çalışıyor.
 
 ---
 
@@ -30,8 +30,11 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Yapay Zek
 
 ## Eğitim
 
+**Fırat Üniversitesi** — Kuantum Bilişimi Yüksek Lisans  
+*2026 – Günümüz*
+
 **Fırat Üniversitesi** — Bilgisayar Mühendisliği  
-*2021 – Günümüz (4. Sınıf)*
+*2021 – 2026 (Mezun)*
 
 **İngilizce Hazırlık Eğitimi** — B1 Seviyesi  
 *2020 – 2021*
@@ -42,7 +45,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Yapay Zek
 
 ## İş Deneyimi
 
-### Bilgisayar Mühendisi — AYSSOFT
+### Backend & Yapay Zeka Mühendisi — AYSSOFT
 **Malatya, Türkiye | 10/2025 – Devam ediyor**
 
 - Yapay zeka tabanlı çözümler geliştiriyor; OCR sistemleri, veri işleme ve API entegrasyonları üzerine çalışmalar yürütüyor.
@@ -68,7 +71,7 @@ Fırat Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Yapay Zek
 ### VakıfBank Hack to the Future 2024
 [GitHub](https://github.com/hasanyilmazgursoy/vakifbank-hackathon-rag-system)
 
-- 250+ katılımcı arasından **14 finalist takımdan biri** seçildi.
+- 250+ takım arasından **14 finalist takımdan biri** seçildi.
 - Bankacılık belgelerine yönelik akıllı soru-cevap platformu için LangGraph + OpenAI destekli RAG sistemi geliştirildi.
 - **Teknolojiler:** LangGraph, OpenAI API, Chroma, Python
 
