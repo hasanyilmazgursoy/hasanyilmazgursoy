@@ -126,6 +126,8 @@
 ###  Personal Projects
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Eczanem**](https://github.com/hasanyilmazgursoy/Eczanem) | Personal medication assistant: drug search, photo-based box recognition, leaflet summarization, interaction checks, offline reminders | Flutter, FastAPI, Gemini |
+| [**Daily Guess**](https://github.com/hasanyilmazgursoy/gunluk-tahmin) | Photo-based daily number guessing game: one puzzle a day, 5 guesses, spoiler-free share card, TR/EN | React, TypeScript, Vite |
 | [**Invoice Recognition**](https://github.com/hasanyilmazgursoy/fatura_tanima_uygulamasi) | OCR-based invoice text extraction | OpenCV, Tesseract, Regex |
 | [**Body AI**](https://github.com/hasanyilmazgursoy/Body_AI) | AI-powered fitness program generator | Django, Machine Learning |
 
@@ -152,6 +154,7 @@
 
 -  **Python 101-401** - Turkcell Geleceği Yazanlar
 -  **Java 101-401** - Turkcell Geleceği Yazanlar
+-  **Introduction to Programming with Java** - BTK Akademi
 -  **Data Science & AI Introduction** - Turkcell Geleceği Yazanlar
 -  **AI Programming Training** - Code 23 Fırat
 -  **UAV-1 Sports/Amateur License**
@@ -162,7 +165,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
 
 <p align="center">
-  Malatya, Turkey &nbsp;·&nbsp; hasanyilmazgursoy@gmail.com &nbsp;·&nbsp; Open to AI / Backend roles & collaborations
+  Malatya, Turkey &nbsp;·&nbsp; hasanyilmazgursoy@gmail.com &nbsp;·&nbsp; Open to collaborations &amp; open-source
 </p>
 
 <p align="center">
